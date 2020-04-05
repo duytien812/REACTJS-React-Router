@@ -1,0 +1,27 @@
+﻿REACTJS-React-Project2
+
+I. THÔNG TIN
+- React Router v5
+- Xuất bản: 01-10-2017
+- https://www.youtube.com/watch?v=494HPoUmqdI&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp&index=69
+
+
+II. Tải project từ github.com về và chạy
+ - B1: Kiểm tra máy đã có nodejs chưa
+     + Mở cửa sổ cmd -> node -v  (có thể chạy ở bất cứ đâu để kiểm tra)
+     + Nếu chưa cài thì tải về và cài đặt bình thường:
+     + https://nodejs.org/en/
+ - B2: Tải modules về
+     + Mặc định git không tải lên các gói modules nên cần tải lại cho project
+     + Vào trong project -> Shift + chuột phải -> Open PowerShell Window Here
+     + npm install
+ - B3: Chạy Project
+     + npm start
+
+
+III. DANH SÁCH BÀI HỌC
+69-80:
+69. React Router v4 : Giới thiệu
+70. React Router v4 : Tích Hợp Thư Viện
+	- Tích hợp thư viện react-router-dom
+	- Xây dựng Router cơ bản
