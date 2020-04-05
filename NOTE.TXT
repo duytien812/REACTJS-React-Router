@@ -32,4 +32,7 @@ III. DANH SÁCH BÀI HỌC
 	- Active thẻ <a>
 73. React Router v4 : Custom Link
 	- Viết hàm MenuLink dùng cho nhiều menu con (thay thẻ li)
+74. React Router v4 : NotFound
+	- Link cho trường hợp 404 - không tìm thấy trang
+	- Tách Menu ra khỏi file App.js
 
