@@ -25,3 +25,7 @@ III. DANH SÁCH BÀI HỌC
 70. React Router v4 : Tích Hợp Thư Viện
 	- Tích hợp thư viện react-router-dom
 	- Xây dựng Router cơ bản
+71. React Router v4 : Link
+	- Thay thẻ <Link> cho thẻ <a>
+	- Khi click vào menu thì chỉ đổi nội dung không load lại trang (Single Page)
+
