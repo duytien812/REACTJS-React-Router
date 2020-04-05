@@ -35,4 +35,8 @@ III. DANH SÁCH BÀI HỌC
 74. React Router v4 : NotFound
 	- Link cho trường hợp 404 - không tìm thấy trang
 	- Tách Menu ra khỏi file App.js
+75. React Router v4 : Tách File Cấu Hình Router
+
+
+
 
