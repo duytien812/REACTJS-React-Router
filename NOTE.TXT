@@ -30,4 +30,6 @@ III. DANH SÁCH BÀI HỌC
 	- Khi click vào menu thì chỉ đổi nội dung không load lại trang (Single Page)
 72. React Router v4 : NavLink
 	- Active thẻ <a>
+73. React Router v4 : Custom Link
+	- Viết hàm MenuLink dùng cho nhiều menu con (thay thẻ li)
 
