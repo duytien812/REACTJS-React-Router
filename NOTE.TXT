@@ -28,4 +28,6 @@ III. DANH SÁCH BÀI HỌC
 71. React Router v4 : Link
 	- Thay thẻ <Link> cho thẻ <a>
 	- Khi click vào menu thì chỉ đổi nội dung không load lại trang (Single Page)
+72. React Router v4 : NavLink
+	- Active thẻ <a>
 
