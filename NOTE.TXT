@@ -36,7 +36,9 @@ III. DANH SÁCH BÀI HỌC
 	- Link cho trường hợp 404 - không tìm thấy trang
 	- Tách Menu ra khỏi file App.js
 75. React Router v4 : Tách File Cấu Hình Router
-
+76. React Router v4 : Đối Tượng Match P1
+77. React Router v4 : Đối Tượng Match P2
+	- Truyền tham số lên param và lấy về
 
 
 
