@@ -39,6 +39,20 @@ III. DANH SÁCH BÀI HỌC
 76. React Router v4 : Đối Tượng Match P1
 77. React Router v4 : Đối Tượng Match P2
 	- Truyền tham số lên param và lấy về
+78. React Router v4 : Đối Tượng Prompt
+	- Xuất hiện Alert hỏi có muốn chuyển trang hay không?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
