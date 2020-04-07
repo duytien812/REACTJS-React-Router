@@ -23,6 +23,11 @@ const menus = [
 		to: '/products',
 		exact: false
 	},
+	{
+		name: 'Đăng nhập',
+		to: '/login',
+		exact: false
+	},
 ]
 
 const MenuLink = ({ label, to, activeOnlyWhenExact }) => {

@@ -41,6 +41,10 @@ III. DANH SÁCH BÀI HỌC
 	- Truyền tham số lên param và lấy về
 78. React Router v4 : Đối Tượng Prompt
 	- Xuất hiện Alert hỏi có muốn chuyển trang hay không?
+79. React Router v4 : Đối Tượng Redirect P1
+80. React Router v4 : Đối Tượng Redirect P2
+	- Vào trang đăng nhập, tk admin/admin
+	- Khi đăng nhập thành công chuyển sang trang Products
 
 
 
